@@ -1,0 +1,53 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li{
+  list-style: none;
+}
+
+.header {
+  background-color: #f7f2b4;
+  height: 90px;
+}
+
+.shopname{
+  font-size: 40px;
+  padding: 20px 50px;
+  text-decoration: underline;
+}
+
+.main {
+  background-color: white;
+  height: 400px;
+}
+.contents{
+      margin: 100px 100px;
+}
+.btn:hover{
+  opacity: 1;
+}
+.btn{
+  padding: 8px 24px;
+  font-size: 50px;
+  color: white;
+  display: :inline-block;
+  opacity: 0.8;/*透明度*/
+  border-radius: 10px;　/*角の丸み*/
+  text-align: center;
+  margin: 50px;
+}
+a{
+  text-decoration: none;
+}
+.bottle{
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+.pack{
+  background-color: #55acee;
+}
+.footer {
+  background-color: #ceccf3;
+  height: 270px;
+}
